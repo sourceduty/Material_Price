@@ -11,7 +11,7 @@ Rebar Price in Canada for 2024
 
 ![Raw Rebar](https://github.com/sourceduty/Material_Price/assets/123030236/c1bfa61a-f08a-43f8-a0b7-24970aec96f2)
 
-As of June 2024, the price of rebar in Canada exhibits significant variability depending on the region and specific market conditions. The average price for rebar stands at approximately USD 96.22 per net ton (NT). This average, however, masks a broader range where prices can be as low as USD 25 per NT and can reach as high as USD 272 per NT. These figures indicate that the rebar market is influenced by localized factors and possibly by fluctuating demand and supply dynamics across different Canadian regions​.
+As of June 2024, the price of rebar in Canada exhibits significant variability depending on the region and specific market conditions. Rhe price of rebar in North America (including Canada) is approximately $573 USD per metric ton. The average price for rebar stands at approximately USD 96.22 per net ton (NT). This average, however, masks a broader range where prices can be as low as USD 25 per NT and can reach as high as USD 272 per NT. These figures indicate that the rebar market is influenced by localized factors and possibly by fluctuating demand and supply dynamics across different Canadian regions​.
 
 Market trends for rebar in North America, including Canada, have shown some stability with minor fluctuations over recent months. For example, the North American Rebar Index, which includes data from Canada, recorded a value of 271.8 points in April 2024. This suggests a relatively stable market with slight variations that reflect the normal ebb and flow of construction activities and other economic factors influencing steel demand​​.
 
