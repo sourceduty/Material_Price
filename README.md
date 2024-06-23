@@ -17,6 +17,8 @@ Market trends for rebar in North America, including Canada, have shown some stab
 
 The pricing of rebar is heavily influenced by several factors. Regional demand, particularly in construction-heavy areas, plays a crucial role. Supply dynamics, including the availability of raw materials and production capacity, also impact prices. Furthermore, global steel market trends and local economic conditions, such as infrastructure projects and seasonal construction activities, contribute to the variability in rebar prices across Canada​​.
 
+![Historical_Rebar_Prices_Canada_1990_2024](https://github.com/sourceduty/Material_Price/assets/123030236/87f9aa3c-632c-4bab-8eb6-124e23032bab)
+
 For more detailed and specific information about rebar pricing in particular regions or other related inquiries, further localized research or contacting local suppliers might be necessary.
 
 #
